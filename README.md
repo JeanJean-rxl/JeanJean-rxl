@@ -24,6 +24,7 @@ I’m an interdisciplinary data engineer and thinker interested in building LLM-
 
 ## 📫 Let's connect
 
+- Open to work: Responsible AI Technical Writer | Applied Engineer
 - 💼 https://www.linkedin.com/in/rachelliurr/
 - 📨 rachelliurr [at] outlook [dot] com
 
