@@ -3,7 +3,7 @@
 
 I’m an interdisciplinary data engineer and thinker interested in building LLM-powered tools to make knowledge accessible, adaptable, and approachable. 
 
----
+
 
 ## 🔧 Selected Projects
 
@@ -13,20 +13,20 @@ I’m an interdisciplinary data engineer and thinker interested in building LLM-
 ### 🧪 [Ludwig Wittgenstein Project](https://github.com/wittgenstein-project/wittgenstein-project.github.io)
 >  Python dev + curator for multilingual access to philosophy
 
----
+
 
 ## 🛠️ Tech Stack
 
 `Python` `FastAPI` `Docker` `LangChain` `Pytorch` `Haystack`  
 `Typescript` `HTML/CSS` `R` `SQL` `GCP` `Git/Linux`
 
----
+
 
 ## 📫 Let's connect
 
-- 💼 [LinkedIn][https://linkedin.com/in/your-link)](https://linkedin.com/in/your-link)
+- 💼 https://www.linkedin.com/in/rachelliurr/
 - 📨 rachelliurr [at] outlook [dot] com
 
----
+
 
 > “Debugging code is a form of articulation; prompt engineering is the new rhetoric.”
