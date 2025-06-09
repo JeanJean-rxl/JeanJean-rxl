@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**JeanJean-rxl/JeanJean-rxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+I’m an interdisciplinary data engineer and thinker interested in building LLM-powered tools to make knowledge accessible, adaptable, and approachable. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Selected Projects
+
+### 🔍 [Random Retrieval: Obsidian Plugin](https://github.com/JeanJean-rxl/random-retrieval-plugin)
+> Built a fuzzy retrieval plugin for Obsidian using LLMs and Retrieval-Augmented Generation pipelines (Python + Typescript)
+
+### 🧪 [Ludwig Wittgenstein Project](https://github.com/wittgenstein-project/wittgenstein-project.github.io)
+>  Python dev + curator for multilingual access to philosophy
+
+---
+
+## 🛠️ Tech Stack
+
+`Python` `FastAPI` `Docker` `LangChain` `Pytorch` `Haystack`  
+`Typescript` `HTML/CSS` `R` `SQL` `GCP` `Git/Linux`
+
+---
+
+## 📫 Let's connect
+
+- 💼 [LinkedIn][https://linkedin.com/in/your-link)](https://linkedin.com/in/your-link)
+- 📨 rachelliurr [at] outlook [dot] com
+
+---
+
+> “Debugging code is a form of articulation; prompt engineering is the new rhetoric.”
